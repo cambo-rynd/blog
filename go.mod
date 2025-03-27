@@ -1,4 +1,4 @@
-module github.com/hbstack/blog
+module github.com/cambo-rynd/blog
 
 go 1.18
 
